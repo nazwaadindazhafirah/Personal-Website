@@ -13,8 +13,8 @@ const fontMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "amorim",
-  description: "amorim",
+  title: "nazwaazhf",
+  description: "nazwaazhf",
 };
 
 export default function RootLayout({
